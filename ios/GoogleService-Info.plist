@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>139952827253-ssnq1nsgoo885bg4cdalsh4m5bh8q92d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.139952827253-ssnq1nsgoo885bg4cdalsh4m5bh8q92d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeEX6DFgUyLlUqVwdMkihtQsnT5b8TD1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>139952827253</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.RNFirebaseLogin</string>
+	<key>PROJECT_ID</key>
+	<string>rn-firebaselogin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rn-firebaselogin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:139952827253:ios:ba4f83e212eadf88acc13c</string>
+	<key>DATABASE_URL</key>
+	<string>https://rn-firebaselogin.firebaseio.com</string>
+</dict>
+</plist>
