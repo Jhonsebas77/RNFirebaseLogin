@@ -1,0 +1,74 @@
+.tmp
+.history
+
+# OSX
+#
+.DS_Store
+package-lock.json
+package.json.tmp
+
+lib/
+Gemfile.lock
+
+tmp/*
+tmp/**
+.jest/*
+
+coverage/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+project.xcworkspace
+package-lock.json
+yarn.lock
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# BUCK
+buck-out/
+\.buckd/
+# *.keystore
+package.json.tmp
+*.app.dSYM.zip
+
+.jest/cache
+
+########### App ##############
+
+########### Android ##############
+
+##########iOS#################
+
+ios/outputs
+ios/Podfile.lock
+ios/Pods/
+ios/tmp.xcconfig
+ios/build/
+ios/AlmundoFont.ttf
+ios/outputs/**
